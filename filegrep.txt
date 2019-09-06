@@ -1,0 +1,18 @@
+total 80
+-rwxr-xr-x 1 shubham shubham 19800 Sep  5 14:27 a.out
+-rwxr-xr-x 1 shubham shubham   177 Sep  5 03:56 file111.txt
+-rwxr-xr-x 1 shubham shubham     3 Sep  5 03:26 file1.txt
+-rwxr-xr-x 1 shubham shubham     0 Sep  5 03:26 file2.txt
+-rwxr-xr-x 1 shubham shubham     0 Sep  5 03:46 file333.txt
+-rwxr-xr-x 1 shubham shubham   177 Sep  5 03:57 file33.txt
+-rwxr-xr-x 1 shubham shubham   189 Sep  5 03:59 file999.txt
+-rwxr-xr-x 1 shubham shubham    54 Sep  5 14:24 filegrep.txt
+-rw-r--r-- 1 shubham shubham   231 Sep  4 14:02 headerfiles.h
+-rw-r--r-- 1 shubham shubham  1297 Sep  5 14:28 history.txt
+-rw-r--r-- 1 shubham shubham  4118 Sep  5 02:04 osassignment1terminal.cpp
+-rw-r--r-- 1 shubham shubham  3127 Sep  4 12:05 osterminal1.cpp
+-rw-r--r-- 1 shubham shubham  5047 Sep  5 14:27 ostest1.cpp
+-rw-r--r-- 1 shubham shubham   352 Sep  5 01:39 testpipe.cpp
+-rw-r--r-- 1 shubham shubham  3350 Sep  4 22:34 testterminal.cpp
+-rw-r--r-- 1 shubham shubham   756 Sep  4 21:56 testtoken.cpp
+-rwxr-xr-x 1 shubham shubham     0 Sep  5 03:19 ttt

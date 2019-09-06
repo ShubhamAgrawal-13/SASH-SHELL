@@ -1,0 +1,423 @@
+puzzled.
+flavor.
+whimsical.
+wander.
+freezing.
+eight.
+quack.
+share.
+cat history.txt | sort
+exit
+puzzled.
+flavor.
+whimsical.
+wander.
+freezing.
+eight.
+quack.
+share.
+cat history.txt | sort
+exit
+cat history.txt | sort
+cat history.txt | sort | uniq
+exit
+
+ls
+ls | wc -l
+cat history.txt | sort | uniq > file33.txt
+exit
+ls
+ls -l
+ls -l > file44.txt
+ls > file55.txt
+ls > file55.txt
+ls > file55.txt
+ls
+ls -l
+ls -l > file11.txt
+ls | sort > file1.txt
+cat > file1.txt
+cat file1.txt
+ls > file1.txt
+ls
+ls > file1.txt
+ls > file1.txt
+ls
+ls > file2.txt
+ls > file2.txt
+ls > file2.txt
+ls -l
+ls | sort
+ls
+ls -l
+ls > file2.txt
+ls | sort
+exit
+ls > ttt
+ls -l >> ttt
+ls -l > ttt
+ls > ttt
+ls 
+ls
+ls > file1.txt
+ls > file1.txt
+ls
+ls -l
+ls > file2.txt
+ls > file33.txt
+ls > file33.txt
+ls > file33.txt
+cat file33.txt
+exit
+ls > file33.txt
+ls > file333.txt
+ls > file33.txt
+ls > file33.txt
+ls > file33.txt
+cat file33.txt
+exit
+ls > file33.txt
+cat file33.txt
+exit
+ls > file1.txt
+cat file1.txt
+exit
+ls > file111.txt
+cat file111.txt
+exit
+cat file111.txt
+exit
+ls > file999.txt
+cat file999.txt
+clear
+history
+clear
+cd ..
+ls
+ls -l
+ls | grep "f"
+ls
+exit
+ls | grep f
+ls -l | grep include
+ls -l | grep shubham
+ls -l | grep a.out
+ls -l | grep a.out > filegrep.txt
+cat filegrep.txt
+ls
+exit
+ls -l | grep a.out > filegrep.txt
+ls -l > filegrep.txt
+cat filegrep.txt
+ls -l | sort > filegrep.txt
+ls -l | sort | uniq > filegrep.txt
+cat filegrep.txt
+clear
+ls -l | grep a.out
+ls | grep a.out
+ls | grep a.out > filegrep.txt
+ ls | grep a.out > filegrep.txt
+cat filegrep.txt
+exit
+ls
+ls | sort | uniq
+ls | sort | uniq > file1.txt
+exit
+ls | sort > file3333.txt
+cat file3333.txt
+ls | sort | grep a.out > file3333.txt
+cat file3333.txt
+ls | grep file
+ls | grep file > file4444.txt
+cat file4444.txt
+ls | grep a.out > file4444.txt
+cat file4444.txt
+exit
+ls | grep f
+ls | grep f > fi33.txt
+cat fi33.txt
+ls | grep a >> fi33.txt
+cat fi33.txt
+ls | grep l > fi33.txt
+cat fi33.txt
+ls
+exit
+ls | grep l > fi33.txt
+cat fi33.txt
+ls | grep l >fi33.txt
+ls | grep l > fi33.txt
+cat fi33.txt
+ls | grep pp > fi33.txt
+cat fi33.txt
+ls | grep pp
+exit
+ls
+ls | grep pp
+ls | grep pp > file33333.txt
+cat file33333.txt
+ls | grep c > file33333.txt
+./a.out
+cat file3333.txt
+exit
+exit
+ls
+cat file33333.txt
+ls | grep ppp > file33333.txt
+cat file33333.txt
+ls | grep cpp > file33333.txt
+ls | grep a.out > file33333.txt
+exit
+333.txt
+ls | grep header > file33333.txt
+ls | grep a.out > file33333.txt
+ls | grep a.out > file33333.txt
+exit
+ls
+ls -l
+ls | grep .h
+ls | grep .out
+ls | grep .out > file.txt
+cat file.txt
+ls | grep .h > file.txt
+cat file.txt
+ls | grep .out >> file.txt
+cat file.txt
+cd ..
+ls
+ls -l
+ls > s.txt
+cat s.txt
+cat s.txt | grep os
+history
+history
+ls
+ls
+ls
+ls
+cal
+time
+date
+date +%m%h
+cal 2019
+clear
+echo 10+20
+echo `expr 10+20`
+history
+bc
+clear
+bc
+echo "10+20" | bc
+clear
+exit
+cd
+ls
+ ls
+exit
+ ls
+                 ls
+ls | sort | uniq > yash.txt
+cat yash.txt
+ls
+ls | grep yash
+ls | grep yash > yash.txt
+cat yash.txt
+ls | grep yash > yash.txt
+ls | grep yash >> yash.txt
+cat yash.txt
+exit
+alias
+alias ll="ls -a"
+alias l="ls"
+alias
+exit
+alias ll="ls -l"
+alias caat="cat"
+alias
+exit
+ls
+alias ls="ls -l"
+alias caat="cat"
+alias ll="ls -a"
+alias
+ls
+ll
+ls
+ls -l
+ls
+exit
+alias ll="ls -a"
+ll
+exit
+alias
+alias ll="ls -l"
+alias
+ll
+exit
+alias ll="ls -l"
+alias
+ll
+exit
+alias lll="ls -al"
+alias
+ll
+exit
+alias lll="ls -al"
+lll
+alias
+caat
+exit
+llll
+caat
+alias ll="ls"
+alias
+ll
+exit
+alias ll="ls -a"
+alias
+ll
+exit
+alias ll="ls -a"
+ll
+exit
+ls
+alias ll="ls -l"
+alias
+alias caat=cat history.txt
+alias
+ll
+caat
+exit
+ls
+exit
+ll
+alias ll=ls -al
+alias
+ll
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls-l
+alias
+alias ll=ls -l
+alias
+ll
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls -al
+ll
+alias
+ll
+exit
+alias ll=ls -al
+ll
+ls
+ls -al
+ls > fff.txt
+cat fff.txt
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls -al
+ll
+exit
+alias ll=ls -al
+ll
+alias ll=cal
+alias caat=yash.txt
+alias
+ll
+caat
+exit
+alias ll=cal
+alias caat=yash
+alias train=sl
+ll
+caat
+sl
+train
+train
+history
+exit
+history
+ls
+ls -ahl
+ls | wc > yash.txt
+yash.txt
+cat yash.txt
+sl | yash.txt
+sl
+sl
+sl
+s1 | yash.txt
+exit
+sl | yash.txt
+cat yash.txt
+history
+alias
+alias his=history
+alias
+his
+his
+history
+exit
+//cout<<"enter once again !!!";
+						string temp13(arrgs[0]);
+						char* ag[10];
+						string si=getAlias(temp13);
+						//cout<<ag[0]<<" ";
+						int ac=0;
+						char* array=(char*)si.c_str();
+						char* tok = strtok(array," ");
+						while(tok!=NULL)
+						{
+							ag[ac++]=tok;
+							tok=strtok(NULL," ");
+						}
+						ag[ac]=NULL;
+						
+						//cout<<ag[0]<<" "<<ag[1]<<" "<<ac<<" "; clear
+clear
+alias his=history
+his
+clear
+his
+exit
+alias his=history
+his
+exit
+alias his=history
+his
+clear
+exit
+alias his=history
+his
+exit
+alias his=history
+his
+exit
+alias his=history
+his
+alias his=ls
+his
