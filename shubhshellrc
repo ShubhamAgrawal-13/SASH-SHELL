@@ -1,6 +1,11 @@
-PATH
-HOSTNAME
-USER
-PS1
-HOME
-HISTSIZE=30
+$=1000
+?=0
+HISTSIZE=20
+HOME=/home/shubham
+HOSTNAME=shubham-HP-Notebook
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+
+PS1=shubham@shubham-HP-Notebook:/home/shubham/OSAssi1$ 
+PWD=/home/shubham/OSAssi1
+UID=1000
+USER=shubham

@@ -9,11 +9,15 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-#define HISTSIZE 20
 
 vector<string> q;
-//getenv(HISTSIZE);
+int HISTSIZE=20;//default
 int maxsize = HISTSIZE;
+
+void setHistSize(int size)
+{
+	HISTSIZE=size;
+}
 void addhistory(string filename)
 {
 	if(q.size()<maxsize)

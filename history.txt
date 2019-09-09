@@ -421,3 +421,839 @@ alias his=history
 his
 alias his=ls
 his
+ls
+ls -l
+hitory
+history
+cd ..
+alias his=history
+his
+exit
+ls
+alias his=history
+his
+alias e=exit
+alais
+alias
+e
+                       
+               
+exit
+ls
+ls -l
+record start
+record start
+cat > geekfile.txt
+cat geekfile.txt
+cat > geekfile.txt
+cat geekfile.txt
+cat > geekfile11.txt
+cat geekfile11.txt
+grep -i shubh geekfile11.txt
+grep -c shubh geekfile11.txt
+cat
+exit
+grep -l shubham *
+ls | grep ^o 
+ls | grep "^o"
+ls | grep o
+ls | grep ^o
+ls | grep ^o 
+ls | grep p$
+alias e=exit
+e
+grep [^0-9] filegrep.txt | wc -w
+alias
+history
+exit
+dpkg -l | grep "vim"
+dpkg -l | grep vim
+ls -l | grep vim
+dpkg -l
+dpkg -l | grep z
+ls -l | grep c
+ls
+cat bigfile.txt | grep the
+cat bigfile.txt | grep \.$
+exit
+ls
+ls -al
+ls -a
+record
+record
+ls
+ls
+exit
+record
+alias e=exit
+e
+echo shubham
+echo 2+3 | bc
+echo "2+3" | bc
+echo 45*67 | bc
+which $SHELL
+which
+which bash
+pwd
+echo pwd
+echo $pwd
+alias h=history
+h
+alias e=exit
+e
+ls -l | grep Sep | sort +4n | more
+exit
+record
+ls
+ls
+exit
+ls
+ls
+ls -ahl
+history
+cd
+id
+ls
+ exit
+ls
+ls -l
+echo $HOME
+echo \$HOME
+export HOME
+export $HOME
+export
+man export
+history
+alias ex=exit
+ex
+export
+exit
+ls
+ls -l
+cd MyAssignment
+cd .
+cd ~
+ls
+ls -l
+history
+alias caat=cat new.txt
+alias
+caat
+history
+cat new.txt
+cd MyAssignment
+cd MyAssigmnent
+cd MyAssignment
+gedit new.txt
+open new.txt
+exit
+open new.txt
+exit
+open
+open new.txt
+exit
+open new.txt
+exit
+open new.txt
+exit
+open new.txt
+cd ~
+ls
+open new.txt
+ls
+ls
+exit
+open new.txt
+ls
+ls
+exit
+open new.txt
+exit
+open new.txt
+ls
+ls
+ls -l
+ls
+exit
+open new.txt
+ls
+ls
+open shree.txt
+ls
+open njasd.txt
+clear
+ls -l | sort | sort | uniq | sort >> file1.txt
+cat file1.txt
+cat >> ls
+cat ls
+open file1.txt
+open file2.txt
+grep output file1.txt
+grep fule2.txt
+cat fule2.txt
+grep out fule2.txt
+alias s=exit
+s
+ls
+lss
+e
+exit
+ls
+lss
+c
+alias
+e
+ls | grep out
+ls | greph out
+la
+ll
+exit
+ls | greph out
+ls | grep out
+c
+exit
+ll | grep out
+ll
+ls -a | grep out
+ls -l | grep out
+exit
+ll | grep out
+ll
+exit
+ll
+ll | grep
+exit
+ll | grep
+exit
+ll
+ll | grep out
+exit
+ll | sort
+ll
+exit
+ll
+exit
+ll
+ls | sort
+cat alias.h | sort
+exit
+ll
+ls
+ls -l
+exit
+ll
+exit
+ll
+ll | grep out
+exit
+ll
+ll | grep out
+ll | greph out
+lss
+greph testpipe include
+greph include testpipe.cpp
+grep include testpipe.cpp
+ll | grep out
+exit
+ll | grep out
+greph include testpipe.cpp
+lss
+ll | grep --color=auto include testpipe.cpp
+grep --color=auto include testpipe.cpp
+ll | grep --color=auto out
+greph include testpipe.cpp
+ll | greph out
+exit
+greph include testpipe.cpp
+exit
+greph include testpipe.cpp
+cd /.
+cd 
+cd ..
+cd
+cd
+exit
+cd ..
+cd ..
+greph include testpipe.cpp
+grep --color=auto include testpipe.cpp
+exit
+greph include testpipe.cpp
+exit
+greph include testpipe.cpp
+exit
+greph include testpipe.cpp
+exit
+greph include testpipe.cpp
+exit
+greph include testpipe.cpp
+exit
+greph include testpipe.cpp
+greph include testpipe.cpp
+ls
+greph include testpipe.cpp
+greph
+ll
+lss
+c
+la
+la
+lss
+greph
+alias
+exit
+greph
+exit
+greph
+exit
+lss
+greph
+exit
+greph
+lss
+exit
+lss
+grephh
+alias
+exit
+greph
+exit
+lss
+ls
+lss
+ll
+lss
+lss
+alias
+ls
+lss
+ls --color=auto
+exit
+lss
+alias s=sort
+alias
+cat testtoken.cpp | s
+c
+e
+exit
+alias grep=grep --color=auto
+alias
+grep include testtoken.cpp
+c
+la
+exi
+exit
+lss
+ls
+ll
+exit
+lss
+ll
+grep
+greph
+alais
+alias
+lss | sort
+exit
+ls
+exit
+exit
+exit
+ls
+lss
+cd 
+cd
+exit
+exit
+exit
+lss
+alias
+exit
+cd  
+cd
+cd
+cd 
+cd          
+ls             
+exit
+ls            
+cd                
+exit
+exit
+ls
+ls
+ls
+ll
+lss
+la
+date
+cal 2019
+exit
+ls 
+ls  
+ls            
+cd
+ls 
+    ls
+ls      
+cd 
+exit
+ls
+lss
+ls | grep --color=auto
+ls | grep --color=auto cpp
+alias ll=ls -l -a
+alias
+ll
+alias ll=ls -alh --color=auto
+ll
+ll
+alias ll=ls -al
+ll
+alias grepe=grep -E
+alias
+ll | grepe cpp
+lss
+exit
+ll
+grep
+ls | grep cpp
+ls | grep cpp
+ll | grep cpp
+alias ll=ls -al --color=auto
+alias
+ll
+c
+exit
+ll
+alias grepe=grep --color=auto
+grepe
+exit
+alias grepe=grep --color=auto
+grepe
+exit
+alias grepe=grep --color=auto
+grepe
+exit
+alias
+greph
+exit
+ll | grepe out
+ll
+ls | grep cpp
+ls | greph cpp
+ll | greph cpp
+alias lla=ls -al --color=auto
+lla
+exit
+alias chdir=cd
+chdir ..
+cddir
+chdir
+cd
+cd 
+ls
+lss
+ll | grepe out
+ls -l | grepe out
+ll | greph out
+exit
+lls
+lss
+exit
+ls
+ll
+ls -a
+ls -a --color=auto
+exit
+cd ../..
+cd /
+ls
+ls -l
+ll
+c
+cd ..
+record start
+ls
+ls -l
+record stop
+ls
+exit
+record start
+ls
+ls -l
+record stop
+ls
+cat recordtermial
+exit
+record start
+ls
+ls -l
+ll
+record stop
+ls
+cat recordtermial
+ls
+cat recordtermial
+exit
+ls
+record start
+ls
+ls
+record start
+ls
+ls
+ls
+record start
+ls
+ls
+record start
+ls
+ls -l
+record stop
+ls
+cat recordterminal
+exit
+ls
+record start
+ls
+ls -l
+record stop
+ls
+cat recordterminal
+record start
+ls
+cal
+record stop
+cat recordterminal
+record start
+cal
+cal 2019
+top
+record stop
+cat recordterminal
+exit
+exit
+exit
+exit
+exit
+exit
+which vlc
+exit
+ls
+record start
+ls
+ls -l
+cal 2019
+hii
+cal
+top
+cd ..
+pwd
+record stop
+ls
+recordterminal
+cat recordterminal
+exit
+ls
+record start
+ls -l
+cal
+date
+hil
+top
+sl
+record stop
+ls
+cat recordterminal
+exit
+record start
+ls
+ls -l
+top
+cal
+cal
+pwd
+history
+record stop
+cat recordterminal
+exit
+ls
+record start
+ls
+ls -l
+ll
+top
+cal
+cal
+history
+record stop
+cat recordterminal
+exit
+ll
+ls
+ls -l
+cal
+top
+cal 2019
+date
+time
+history
+record stop
+ls
+record start
+ls
+ls -l
+ll
+top
+cal
+cal 2019
+cal
+time
+history
+record stop
+cat recordterminal
+alias e=exit
+alias
+e
+record start
+ls
+ls
+ls
+top
+top
+ls -l
+ll
+history
+record stop
+cat recordterminal
+exit
+ls
+lss
+record start
+ls
+ls -l
+cal
+ls | sort
+record stop
+exit
+ls
+exit
+hii
+ls
+ls -l
+exit
+ls
+lss
+record start
+ls
+ls -l
+hii
+cal
+ll
+top
+record stop
+cat recordterminal
+exit
+ls
+ld
+ls
+exit
+ls
+ls -l
+exit
+ls
+lss
+record start
+ls
+cal
+cal 2019
+top
+history
+record stop
+cat recordterminal
+ls
+cat recordtermial
+recordterminal
+cat recordterminal
+record start
+ls | sort
+ls
+cal
+top
+history
+hstory
+history
+record stop
+ls
+cat recordterminal
+exit
+echo shubham
+exit
+echo shubham
+echo $HOME
+echo $PATH
+echo $SHELL
+echo $PS1
+cd ..
+ls
+lss
+echo shubham
+echo shubham Agrawal
+echo 3+5 | bc
+echo $PATH
+echo $HOME
+$PS1
+echo $PS1
+cd ..
+cd
+echo $$
+echo $?
+cd ..
+ls
+echp $?
+echo $?
+lp
+echo $?
+sdccc
+echo $?
+exit
+ls
+echo $?
+lp
+echo $?
+exit
+ls
+echo $?
+echo ??
+ll
+lp
+echo $?
+ll
+echo $?
+nn
+echo $?
+exit
+llll
+echo $?
+exit
+ls
+cat shubhshellrc
+c
+exit
+ls
+cat shubhshellrc
+exit
+ls
+cat shubhshellrc
+exit
+ls
+cat shubhshellrc
+cd ..
+ls
+cat shubhshellrc
+cd ..
+ls
+cat shubhshellrc
+exit
+ls
+cat shubhshellrc
+exit
+ls
+cd ..
+cat shubhshellrc
+export
+export ?=111111
+echo $?
+exit
+ls
+export ?=111
+echo $?
+export $=1001
+echo $$
+export HISTSIZE=1000
+echo HISTSIZE
+echo $HISTSIZE
+cat recordterminal
+cat shubhshellrc
+exit
+ls
+exit
+ls
+lss
+bye
+record start 
+kk
+ls
+cal
+ps
+record stop
+cat recordterminal
+vi
+sudo -i
+ll
+lss
+ll --color=auto
+ps -aux | sort
+alias
+alias e=exit
+e
+ls
+record start
+ls
+top
+record stop
+cat recordterminal
+exit
+cd ~
+cd ~
+ls
+ls ~
+echo ~
+exit
+alias
+ps ~
+ps -aux
+top
+history
+exit
+ls
+export HISTSIZE=1000
+cat shubhshellrc
+exit
+ls
+lss
+ls -l
+alias
+cd ..
+ls | sort
+user aby
+export USER=ABY
+echo $USER
+​
+cat file1.txt
+| sort | uniq > save.txtcat file1.txt | sort | uniq > save.txt
+cat save.txt
+cat > file1.txt
+cat file1.txt
+cat file1.txt | sort | uniq > save.txt
+cat save.txt
+ll | sort
+alias s=sort
+ll | s
+exit
+record start
+ls
+cal 2019
+top
+ls -l
+record stop
+cat recordterminal
+echo $$
+exit
+ls
+ls
+lss
+ll
+history
+exit
